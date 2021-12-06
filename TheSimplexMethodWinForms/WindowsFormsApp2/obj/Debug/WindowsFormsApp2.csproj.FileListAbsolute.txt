@@ -1,0 +1,143 @@
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\skeez\OneDrive\Рабочий стол\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\wkng\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\wkng — копия\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\back2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\back2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\User\Desktop\sasda\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DanilWH\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\skeez\OneDrive\Рабочий стол\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Brux\Desktop\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\майер\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inputForm.resources
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.output.resources
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\мкд майер\3 курс\TheSimplexMethodWinForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
